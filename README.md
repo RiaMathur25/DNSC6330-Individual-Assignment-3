@@ -50,9 +50,9 @@ B) Python Libraries Used
 
 ### C) Instructions for Reproducing the Results (Google Colab)
 
-1\) Open Google Colab
+1. Open Google Colab
 
-2\) Upload Individual\_Assignment\_3\_Ria\_Mathur.ipynb
+2. Upload Individual\_Assignment\_3\_Ria\_Mathur.ipynb
 
-3\) Run all cells using Runtime → Run all
+3. Run all cells using Runtime → Run all
 
