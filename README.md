@@ -34,19 +34,15 @@ Results indicate measurable disparities across demographic groups under multiple
 
 ### B) Python Libraries Used
 
-Library	Purpose
 
-pandas	Data cleaning, subgroup filtering, and aggregation
+B) Python Libraries Used
+1) Pandas- Data cleaning, subgroup filtering, and aggregation
+2) Numpy- Numerical operations and statistical calculations
+3) Matplotlib- Visualization of fairness metrics
+4) Statsmodels	Logistic regression for Marginal Effect estimation
+5) Solas-disparity	Computation of AIR fairness metric
+6) Scipy / statsmodels.stats	Two-proportion z-tests for error-rate comparison
 
-numpy	Numerical operations and statistical calculations
-
-matplotlib	Visualization of fairness metrics
-
-statsmodels	Logistic regression for Marginal Effect estimation
-
-solas-disparity	Computation of AIR fairness metric
-
-scipy / statsmodels.stats	Two-proportion z-tests for error-rate comparison
 
 
 
